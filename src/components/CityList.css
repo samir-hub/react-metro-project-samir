@@ -1,0 +1,9 @@
+.citylist-div {
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  background-color: lightgray;   
+  height: 40vh;
+  overflow-y: auto; 
+  padding-left: 20px;
+}
